@@ -405,7 +405,7 @@ results, please include the output of:
 ./scripts/tests.disk.sh
 ```
 
-_Run this test RARELY. It writes/reads many GBs from your disk and can fry an
+_Run this test RARELY. It write/reads many GBs from your disk and can fry an
 SSD if you run it too often. We run this in CI to standardize the result of all
 load tests._
 
